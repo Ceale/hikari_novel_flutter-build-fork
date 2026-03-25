@@ -60,6 +60,11 @@
 - `develop` 开发分支。想要提pr的人请拉取这个分支进行开发，然后提pr时也请merge到这个分支
 
 
+## 📥下载
+为便于使用，本仓库通过 GitHub Actions 自动同步上游，并自动构建了 Win 和 Android 上的 Release 与 Develop 版本。<br/>下载与使用请遵循原作者的要求，不在公共平台进行宣传，感谢理解与配合捏。
+下载处见 [Actions](https://github.com/Ceale/hikari_novel_flutter-build-fork/actions)
+
+
 ## 📦 安装
 本项目不提供安装包，请参考下方 `编译` 自行编译使用
 
@@ -76,6 +81,7 @@
   1. 克隆此仓库
   2. 安装flutter，参考 [flutter.dev](https://flutter.dev/docs/get-started/install)
   3. 编译出对应平台的安装包，如 `flutter build apk`
+
 
 ## 🧑‍💻 交流
 &nbsp;&nbsp;<a href="https://t.me/+CUSABNkX5U83NGNl"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-加入群组-blue?style=for-the-badge&logo=telegram"></a>
